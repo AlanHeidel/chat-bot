@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="chatbot.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="18" Y="6"/>
+        <UsageCount Value="53"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\batalla_naval.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="7"/>
+      </Unit>
+      <Unit>
+        <Filename Value="diseno.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="4"/>
+        <CursorPos X="22" Y="8"/>
+        <FoldState Value=" T3D083P"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="archivo.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="16" Y="5"/>
+        <FoldState Value=" T3L0N5"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="principal.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="49"/>
+        <CursorPos X="24" Y="10"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="tipos_datos.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="8" Y="17"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="chatbot.pas"/>
+        <Caret Line="216" TopLine="201"/>
+      </Position>
+      <Position>
+        <Filename Value="chatbot.pas"/>
+        <Caret Line="229" TopLine="204"/>
+      </Position>
+      <Position>
+        <Filename Value="chatbot.pas"/>
+        <Caret Line="235" TopLine="204"/>
+      </Position>
+      <Position>
+        <Filename Value="chatbot.pas"/>
+        <Caret Line="236" TopLine="204"/>
+      </Position>
+      <Position>
+        <Filename Value="chatbot.pas"/>
+        <Caret Line="193" TopLine="173"/>
+      </Position>
+      <Position>
+        <Filename Value="chatbot.pas"/>
+        <Caret Line="195" TopLine="173"/>
+      </Position>
+      <Position>
+        <Filename Value="chatbot.pas"/>
+        <Caret Line="237" TopLine="206"/>
+      </Position>
+      <Position>
+        <Filename Value="chatbot.pas"/>
+        <Caret Line="193" TopLine="173"/>
+      </Position>
+      <Position>
+        <Filename Value="chatbot.pas"/>
+        <Caret Line="195" TopLine="173"/>
+      </Position>
+      <Position>
+        <Filename Value="chatbot.pas"/>
+        <Caret Line="213" TopLine="193"/>
+      </Position>
+      <Position>
+        <Filename Value="chatbot.pas"/>
+        <Caret Line="214" TopLine="193"/>
+      </Position>
+      <Position>
+        <Filename Value="chatbot.pas"/>
+        <Caret Line="215" TopLine="193"/>
+      </Position>
+      <Position>
+        <Filename Value="chatbot.pas"/>
+        <Caret Line="216" TopLine="193"/>
+      </Position>
+      <Position>
+        <Filename Value="chatbot.pas"/>
+        <Caret Line="196" Column="44" TopLine="174"/>
+      </Position>
+      <Position>
+        <Filename Value="chatbot.pas"/>
+        <Caret Line="188" Column="12" TopLine="175"/>
+      </Position>
+      <Position>
+        <Filename Value="chatbot.pas"/>
+        <Caret Line="224" TopLine="204"/>
+      </Position>
+      <Position>
+        <Filename Value="chatbot.pas"/>
+        <Caret Line="222" TopLine="204"/>
+      </Position>
+      <Position>
+        <Filename Value="chatbot.pas"/>
+        <Caret Line="224" TopLine="204"/>
+      </Position>
+      <Position>
+        <Filename Value="chatbot.pas"/>
+        <Caret Line="222" TopLine="204"/>
+      </Position>
+      <Position>
+        <Filename Value="chatbot.pas"/>
+        <Caret Line="224" TopLine="204"/>
+      </Position>
+      <Position>
+        <Filename Value="chatbot.pas"/>
+        <Caret Line="222" TopLine="204"/>
+      </Position>
+      <Position>
+        <Filename Value="chatbot.pas"/>
+        <Caret Line="224" TopLine="204"/>
+      </Position>
+      <Position>
+        <Filename Value="chatbot.pas"/>
+        <Caret Line="222" TopLine="204"/>
+      </Position>
+      <Position>
+        <Filename Value="chatbot.pas"/>
+        <Caret Line="224" TopLine="204"/>
+      </Position>
+      <Position>
+        <Filename Value="chatbot.pas"/>
+        <Caret Line="222" TopLine="204"/>
+      </Position>
+      <Position>
+        <Filename Value="chatbot.pas"/>
+        <Caret Line="219" TopLine="204"/>
+      </Position>
+      <Position>
+        <Filename Value="chatbot.pas"/>
+        <Caret Line="221" TopLine="204"/>
+      </Position>
+      <Position>
+        <Filename Value="chatbot.pas"/>
+        <Caret Line="222" TopLine="204"/>
+      </Position>
+      <Position>
+        <Filename Value="diseno.pas"/>
+        <Caret Line="8" Column="22"/>
+      </Position>
+      <Position>
+        <Filename Value="chatbot.pas"/>
+        <Caret Line="4" Column="17"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <Watches>
+      <Item>
+        <Expression Value="pregunta"/>
+      </Item>
+      <Item>
+        <Expression Value="pregunta"/>
+      </Item>
+    </Watches>
+  </Debugging>
+</CONFIG>
